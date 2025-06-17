@@ -1,16 +1,36 @@
-# food_for_all
+🌱 FoodForAll – Flutter App
+A mobile application built with Flutter for the FoodForAll initiative — connecting surplus food from donors to the needy. This app enables users to donate, request, or track food availability and deliveries, helping reduce food waste and support SDG 2: Zero Hunger.
 
-A new Flutter project.
+🚀 Getting Started
+This repository contains the source code for the FoodForAll mobile app. It's a starting point for further development, integrating features such as:
 
-## Getting Started
+📝 Food donation form
 
-This project is a starting point for a Flutter application.
+📦 Food request tracking
 
-A few resources to get you started if this is your first Flutter project:
+📍 Location mapping
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🗃️ Supabase integration for backend database
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📱 Responsive UI with Flutter widgets
+
+🛠️ Requirements
+Flutter SDK (>= 3.0.0)
+
+Dart SDK
+
+Supabase account (for database)
+
+Android Studio / VS Code (recommended)
+🧪 Features Planned
+✅ User registration and login
+
+✅ Donate and request food forms
+
+🔄 Real-time updates from Supabase
+
+📍 Google Maps integration
+
+📊 Analytics dashboard (Admin)
+
+📷 Upload images of food items
